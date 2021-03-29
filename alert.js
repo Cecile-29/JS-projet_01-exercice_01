@@ -1,1 +1,2 @@
-alert("Hello DesCodeuses");
+var text = 'Hello DesCodeuses';
+alert(text);
